@@ -10,6 +10,7 @@ $reqAmt=array();
 if(isset($_GET['id']) && isset($_GET['Remarks']))
 {
 
+
 echo "<br>";
 echo $_GET['id'];
 echo "<br>";
